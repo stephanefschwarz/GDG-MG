@@ -23,6 +23,6 @@
 
 # [EMET - אמת](#emet)
 
-Schwarz, S., Theóphilo, A., and Rocha, A., 2020, May. EMET: Embeddings from Multilingual Encoder Transformer for Fake News Detection. In ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE.
+**Schwarz, S., Theóphilo, A., and Rocha, A., 2020, May. EMET: Embeddings from Multilingual Encoder Transformer for Fake News Detection. In ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE.**
 
 ![EMET scheme](./imgs/FN_arch.png)
