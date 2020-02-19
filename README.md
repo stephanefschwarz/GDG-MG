@@ -1,3 +1,5 @@
+> All the data used in this tutorial can be found [here](https://drive.google.com/open?id=1yM9QhP8dmHH75utqk4Y54U1JZmHPQddM).
+
 # Hands-on pipeline
 
 1. [What is NLP?](https://machinelearningmastery.com/natural-language-processing/)
